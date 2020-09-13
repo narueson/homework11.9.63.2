@@ -1,0 +1,20 @@
+﻿'homework11.9.63.2.exe' (Win32): Loaded 'C:\Users\TEMP\source\repos\homework11.9.63.2\Debug\homework11.9.63.2.exe'. Symbols loaded.
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Program Files\Norton Security\NortonData\22.19.8.65\Definitions\BASHDefs\20200908.003\UMEngx86.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x1cfc has exited with code 0 (0x0).
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'homework11.9.63.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x2818 has exited with code 0 (0x0).
+The thread 0x36a8 has exited with code 0 (0x0).
+The thread 0x20ec has exited with code 0 (0x0).
+The thread 0x2cbc has exited with code 0 (0x0).
+The program '[8684] homework11.9.63.2.exe' has exited with code 0 (0x0).
